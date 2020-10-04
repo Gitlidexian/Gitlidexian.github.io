@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gitlidexian.github.io/2020/10/04/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6%E5%9C%A8%E6%A4%8D%E7%89%A9%E6%AC%A1%E7%94%9F%E4%BB%A3%E8%B0%A2%E7%89%A9%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</loc>
+    <loc>http://gitlidexian.github.io/2020/10/04/002/</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/2020/10/04/001/</loc>
     
     <lastmod>2020-10-04</lastmod>
     
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://gitlidexian.github.io/2020/10/03/hello-world/</loc>
-    
-    <lastmod>2020-10-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://gitlidexian.github.io/friends/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -79,13 +79,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://gitlidexian.github.io/tags/web/</loc>
-    <lastmod>2020-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://gitlidexian.github.io/tags/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6/</loc>

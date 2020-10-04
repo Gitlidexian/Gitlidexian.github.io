@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>李德贤的博客</title>
   
   
   <link href="http://gitlidexian.github.io/atom.xml" rel="self"/>
   
   <link href="http://gitlidexian.github.io/"/>
-  <updated>2020-10-04T14:50:53.350Z</updated>
+  <updated>2020-10-04T15:01:23.347Z</updated>
   <id>http://gitlidexian.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>计算化学在植物次生代谢物研究中的应用</title>
-    <link href="http://gitlidexian.github.io/2020/10/04/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6%E5%9C%A8%E6%A4%8D%E7%89%A9%E6%AC%A1%E7%94%9F%E4%BB%A3%E8%B0%A2%E7%89%A9%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/"/>
-    <id>http://gitlidexian.github.io/2020/10/04/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6%E5%9C%A8%E6%A4%8D%E7%89%A9%E6%AC%A1%E7%94%9F%E4%BB%A3%E8%B0%A2%E7%89%A9%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</id>
+    <link href="http://gitlidexian.github.io/2020/10/04/001/"/>
+    <id>http://gitlidexian.github.io/2020/10/04/001/</id>
     <published>2020-10-04T14:02:55.000Z</published>
-    <updated>2020-10-04T14:50:53.350Z</updated>
+    <updated>2020-10-04T15:01:23.347Z</updated>
     
     
     
@@ -44,25 +44,29 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://gitlidexian.github.io/2020/10/03/hello-world/"/>
-    <id>http://gitlidexian.github.io/2020/10/03/hello-world/</id>
-    <published>2020-10-03T12:22:40.328Z</published>
-    <updated>2020-10-04T06:58:10.763Z</updated>
-    
-    <content type="html"><![CDATA[<p>Markdown语法</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>小黑点  </li><li>两个空格，一个回车表示换行</li></ul><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src=""></p><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><a href=""></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Markdown语法&lt;/p&gt;
-&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink</summary>
-      
+    <title>计算化学在植物次生代谢物研究中的应用</title>
+    <link href="http://gitlidexian.github.io/2020/10/04/002/"/>
+    <id>http://gitlidexian.github.io/2020/10/04/002/</id>
+    <published>2020-10-04T14:02:55.000Z</published>
+    <updated>2020-10-04T15:01:35.288Z</updated>
     
     
     
     
-    <category term="web" scheme="http://gitlidexian.github.io/tags/web/"/>
+    <category term="计算化学应用综述" scheme="http://gitlidexian.github.io/categories/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+    <category term="计算化学" scheme="http://gitlidexian.github.io/tags/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6/"/>
+    
+    <category term="分子动力学" scheme="http://gitlidexian.github.io/tags/%E5%88%86%E5%AD%90%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
+    
+    <category term="量子化学" scheme="http://gitlidexian.github.io/tags/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6/"/>
+    
+    <category term="植物" scheme="http://gitlidexian.github.io/tags/%E6%A4%8D%E7%89%A9/"/>
+    
+    <category term="次生代谢物" scheme="http://gitlidexian.github.io/tags/%E6%AC%A1%E7%94%9F%E4%BB%A3%E8%B0%A2%E7%89%A9/"/>
+    
+    <category term="综述" scheme="http://gitlidexian.github.io/tags/%E7%BB%BC%E8%BF%B0/"/>
     
   </entry>
   
