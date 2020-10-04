@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://gitlidexian.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/about/index.html</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/links/index.html</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/repository/index.html</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/books/index.html</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/undefined/undefined/undefined/hello-world/</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/friends/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/contanct/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitlidexian.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://gitlidexian.github.io/</loc>
+    <lastmod>2020-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://gitlidexian.github.io/tags/web/</loc>
+    <lastmod>2020-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>
