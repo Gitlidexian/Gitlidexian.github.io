@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="2020/10/03/hello-world/"/>
-      <url>2020/10/03/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Markdown语法</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>小黑点  </li><li>两个空格，一个回车表示换行</li></ul><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src=""></p><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><a href=""></a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> web </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/10/03/hello-world/</url>
+    <content><![CDATA[<p>Markdown语法</p>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul>
+<li>小黑点  </li>
+<li>两个空格，一个回车表示换行</li>
+</ul>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src=""></p>
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><a href=""></a></p>
+]]></content>
+      <tags>
+        <tag>web</tag>
+      </tags>
+  </entry>
 </search>
