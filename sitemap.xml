@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gitlidexian.github.io/2020/10/05/002/</loc>
+    
+    <lastmod>2020-10-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gitlidexian.github.io/about/index.html</loc>
     
     <lastmod>2020-10-05</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>http://gitlidexian.github.io/2020/10/05/001/</loc>
-    
-    <lastmod>2020-10-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://gitlidexian.github.io/2020/10/05/002/</loc>
     
     <lastmod>2020-10-05</lastmod>
     
@@ -139,7 +139,7 @@
   </url>
   
   <url>
-    <loc>http://gitlidexian.github.io/categories/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0/</loc>
+    <loc>http://gitlidexian.github.io/categories/%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0/</loc>
     <lastmod>2020-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
